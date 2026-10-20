@@ -11,7 +11,7 @@ permalink: /
 ## 앱별 정책
 
 - [오믹스(Ohmics) 개인정보 처리방침](/omics/)
-- [내손안의 법구경(Dhammapada) 개인정보 처리방침](/dhammapada/)
+- [내손에 법구경(Dhammapada) 개인정보 처리방침](/dhammapada/)
 - [투캘린더(TwoCalendar) 개인정보 처리방침](/twocalendar/)
 
 ---
