@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "DALLAB.KR 개인정보 처리방침"
-permalink: /
+permalink: /index-later/
 ---
 
 # 개인정보 처리방침
