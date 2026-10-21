@@ -93,7 +93,7 @@ K-Work Memo(이하 "본 확장 프로그램")는 사용자의 개인정보와 �
 본 개인정보 처리방침 또는 확장 프로그램 사용과 관련하여 질문이나 의견이 있으신 경우 아래로 문의해 주시기 바랍니다.
 
 - **프로젝트 저장소 (GitHub)**: [k-work-memo Issues](https://github.com/dasanstudio/k-work-memo/issues)
-- **문의 이메일**: `dasanstudio@gmail.com`
+- **문의 이메일**: `smartup.kr@gmail.com`
 
 ---
 ---
@@ -137,4 +137,4 @@ The Extension operates strictly on a **local-first** approach:
 
 For any inquiries, bug reports, or privacy concerns regarding K-Work Memo, please reach out via:
 - **GitHub Issues**: [k-work-memo Repository](https://github.com/dasanstudio/k-work-memo/issues)
-- **Email**: `dasanstudio@gmail.com`
+- **Email**: `smartup.kr@gmail.com`
