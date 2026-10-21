@@ -15,7 +15,9 @@ title: "DALLAB.KR 개인정보 처리방침"
 
 ## 크롬확장 앱별 정책
 
-- [K-Work Memo 개인정보 처리방침](/k-work-memo-privacy-policy/)
+- [K-Work Memo 개인정보 처리방침](/chrome/k-work-memo/)
+- [K-Calendar 개인정보 처리방침](/chrome/k-calendar/)
+
 
 ---
 
